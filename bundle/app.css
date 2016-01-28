@@ -499,6 +499,7 @@ a:hover {
 }
 
 .react-logo{
+  position: relative;
   margin-top:150px;
 }
 
@@ -523,6 +524,7 @@ a:hover {
 }
 
 .intro-content{
+  position: relative;
   z-index: 2;
 }
 
@@ -649,6 +651,7 @@ a:hover {
   -webkit-transform:translate(-100%,-50%);
           transform:translate(-100%,-50%);
   padding: 3px;
+  z-index: 100;
 }
 
 #slider-control a {
